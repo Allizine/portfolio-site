@@ -1,0 +1,9 @@
+/* Standard settings */
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+  .mainheader {
+      position: absolute;;
+  }
