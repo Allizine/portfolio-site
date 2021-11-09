@@ -5,5 +5,9 @@
   }
 
   .mainheader {
-      position: absolute;;
+      position: absolute;
+  }
+
+  .yessir {
+      font-weight: bold;
   }
